@@ -1,0 +1,11 @@
+# vim: sts=2 sw=2 et
+manifest_version: 2
+name: "Outstanding Orange"
+description: "I just want my Chrome windows on my Endless profile to be bright orange, okay?"
+version: "1.0"
+# https://developer.chrome.com/extensions/themes
+theme:
+  colors:
+    frame: [0xf2, 0x65, 0x22]
+icons:
+  "128": icon-128.png
